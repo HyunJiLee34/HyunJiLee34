@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 <div align=center><h1>🛠 Tools</h1></div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-47A248?style=flat&logo=PyCharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VisualStudeioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
+  
 </div>
