@@ -26,7 +26,6 @@
   
 </div>
 
-
 <div align=center><h1>💻 Portfolio 💻</h1></div>
 
 <div align="center">
@@ -35,20 +34,15 @@
   
 </div>
 
-
 <div align=center><h1> 📬 Contact 📬 </h1></div>
 <div align=center><a href="https://instagram.com/kkulzi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkulzi__" height="30" width="40" /></a>
 hyunji5031@gmail.com
 </p>
 
-
-
 <div align="center">
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunji5031">
 </div>
-
-
 
 ### 📝 교육
 |기간|소속|전공|학위|비고|
