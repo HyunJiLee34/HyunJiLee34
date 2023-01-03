@@ -67,13 +67,29 @@ hyunji5031@gmail.com
 |2021|Kaggle D&A ML Challenge 2021F|구매내역과 클릭스트림 데이터를 이용한 고객의 성별, 연령대 예측|2위|<a href="https://github.com/HyunJiLee34/School_Competition/tree/main/2021F_D%26A%20ML%20Challange" target="_blank">링크</a>|
 |2021|Dacon 주식 종료 가격 예측 경진대회|KOSPI-200과 KOSDAQ-150의 주어진 기간 중 마지막으로 거래된 가격(종가) 예측|Top 14%|<a href="https://github.com/HyunJiLee34/DACON_Stock-Price-Prediction" target="_blank">링크</a>|
  
- 
+
+### 💻 프로젝트
+|연도|keyword|프로젝트|링크|
+|-|-|-|-|
+|2022|데이터 분석 & 요인분석|교통량 예측과 요인분석|<a href="https://github.com/hits-gold/projects/tree/main/%E1%84%80%E1%85%AD%E1%84%90%E1%85%A9%E1%86%BC%E1%84%85%E1%85%A3%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%E1%84%80%E1%85%AA%20%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8">링크</a>|
+|2022|ImageCaptioning & Clustering|이미지 캡셔닝을 통한 사진 클러스터링|<a href="https://github.com/HyunJiLee34/Project/tree/main/ImageCaptioning-Clustering">링크</a>|
+|2022|Crawling & LDA|Google Playstore ‘Toss’(Fintech application) reviews crawling , LDA Topic Modeling|<a href="https://github.com/HyunJiLee34/Project/tree/main/GooglePlayStore-ReviewCrawling-LDA">링크</a>|
+|2021|회귀분석|국민건강영양조사 자료를 이용한 청장년층의 운동량에 영향을 미치는 요인에 관한 연구|<a href="https://github.com/HyunJiLee34/Project/tree/main/Factors-of-Exercise-for-Youth">링크</a>|
+|2021|Deeplearning 예측 모델|대기 오염 정도에 따른 지역별 일교차 예측|<a href="https://github.com/HyunJiLee34/Project/tree/main/Daily-Temperature-Prediction">링크</a>|
+|2021|데이터 분석|액티브시니어 소비계층을 위한 마케팅전략|<a href="https://github.com/HyunJiLee34/LPoint-Data-Analysis">링크</a>|
+
+
 
 ### 🏫 학회 활동 
-- [D&A](https://github.com/hits-gold/2022DnA_Session) <- About D&A
-  
+[D&A](https://github.com/hits-gold/2022DnA_Session) <- About D&A
 |연도|Session|활동 내용|링크|
 |-|-|-|-|
+[BITAmin] (https://github.com/BitaminOfficial) <- About BITAmin
+|연도|Session|링크|
+|-|-|-|-|
+|2022.08~11|Deeplearning Session|https://github.com/HyunJiLee34/DL_session|
+|2022.10~|Conference|진행중|
+
 
 
 ### 📜 자격증
