@@ -81,12 +81,15 @@ hyunji5031@gmail.com
 
 
 ### 🏫 학회 활동 
-[D&A](https://github.com/hits-gold/2022DnA_Session) <- About D&A
+[D&A] (https://github.com/hits-gold/2022DnA_Session) <- About D&A
+
 |연도|Session|활동 내용|링크|
 |-|-|-|-|
+
 [BITAmin] (https://github.com/BitaminOfficial) <- About BITAmin
+
 |연도|Session|링크|
-|-|-|-|-|
+|-|-|-|
 |2022.08~11|Deeplearning Session|https://github.com/HyunJiLee34/DL_session|
 |2022.10~|Conference|진행중|
 
