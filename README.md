@@ -56,7 +56,14 @@ hyunji5031@gmail.com
 |2020.03~|국민대학교|AI빅데이터융합경영학과|제1전공|재학중|
 |2022.03~|국민대학교|소프트융합대학 소프트웨어학과|부전공|재학중|
 
-
+### 🏆 대회참가
+ 🥇 Dacon AI Bit Trader Contest Season 3 **1st**  
+ 🥇 Kaggle 2021 KML Predict responsiveness to online surveys **1st**  
+ 🥈 Kaggle 2021 D&A Gender and Age Prediction Contest Using Clickstream Data **2nd**  
+ 🥈 Dacon Card consumption pattern analysis visualization contest **2nd**  
+ Dacon 제주도 도로 교통량 예측 AI 경진대회 (Top 3%)  
+ Dacon Stock Closing Price Prediction Contest (Top 14%)  
+ 2022 빅콘테스트 퓨처스리그 데이터분석  
 
 
 
