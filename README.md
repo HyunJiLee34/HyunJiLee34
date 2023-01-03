@@ -56,15 +56,30 @@ hyunji5031@gmail.com
 |2020.03~|국민대학교|AI빅데이터융합경영학과|제1전공|재학중|
 |2022.03~|국민대학교|소프트융합대학 소프트웨어학과|부전공|재학중|
 
-### 🏆 대회참가
- 🥇 Dacon AI Bit Trader Contest Season 3 **1st**  
- 🥇 Kaggle 2021 KML Predict responsiveness to online surveys **1st**  
- 🥈 Kaggle 2021 D&A Gender and Age Prediction Contest Using Clickstream Data **2nd**  
- 🥈 Dacon Card consumption pattern analysis visualization contest **2nd**  
- Dacon 제주도 도로 교통량 예측 AI 경진대회 (Top 3%)  
- Dacon Stock Closing Price Prediction Contest (Top 14%)  
- 2022 빅콘테스트 퓨처스리그 데이터분석  
+### 🏆 대회
+|연도|대회명|프로젝트|수상|링크|
+|-|-|-|-|-|
+|2022|2022 빅콘테스트 퓨처스리그 데이터분석||||
+|2022|Dacon 제주도 도로 교통량 예측 AI 경진대회|교통량 예측 알고리즘 개발|상위 3%||
+|2022|Dacon 카드 소비 패턴 분석 시각화 경진대회|카드 소비 데이터를 이용하여 지식을 발견하고 소비 트렌드 및 소비 패턴을 효과적으로 분석 시각화|2위|<a href="https://github.com/HyunJiLee34/DACON_Card-Consumption-Data-Analysis" target="_blank">링크</a>|
+|2021|Kaggle KML Challenge 2021F|설문조사 응답 여부 예측|1위|<a href="https://github.com/HyunJiLee34/School_Competition/tree/main/Kaggle%20KML%20Challenge%202021F" target="_blank">링크</a>|
+|2021|Dacon 연간 데이콘 인공지능 비트 트레이더 경진대회 시즌 3 |10가지 종류의 암호화폐 가격을 예측하여 가장 높은 수익율을 갖는 모델 개발|1위|<a href="https://github.com/HyunJiLee34/DACON_bitcoin" target="_blank">링크</a>|
+|2021|Kaggle D&A ML Challenge 2021F|구매내역과 클릭스트림 데이터를 이용한 고객의 성별, 연령대 예측|2위|<a href="https://github.com/HyunJiLee34/School_Competition/tree/main/2021F_D%26A%20ML%20Challange" target="_blank">링크</a>|
+|2021|Dacon 주식 종료 가격 예측 경진대회|KOSPI-200과 KOSDAQ-150의 주어진 기간 중 마지막으로 거래된 가격(종가) 예측|Top 14%|<a href="https://github.com/HyunJiLee34/DACON_Stock-Price-Prediction" target="_blank">링크</a>|
+ 
+ 
 
+### 🏫 학회 활동 
+- [D&A](https://github.com/hits-gold/2022DnA_Session) <- About D&A
+  
+|연도|Session|활동 내용|링크|
+|-|-|-|-|
+
+
+### 📜 자격증
+|취득 연도|자격증|주관|유효기간|
+|-|-|-|-|
+|2021|SQLD|한국데이터산업진흥원|영구|
 
 
 
