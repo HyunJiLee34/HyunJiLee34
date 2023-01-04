@@ -1,5 +1,21 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=HyunJi'sGithub)
-<h3 align="center">I love @kimjaeyoonn__ !</h3>
+### <div align=center> Hi there 👋
+
+
+<div align=center> 🐰 I am Hyun Ji Lee
+
+<div align=center> 🌱 I’m currently learning recommendation system
+
+<div align=center> 🤝 I’m looking to collaborate on someone who can working together to apply  AI for social good
+
+<div align=center>  🤔 I’m looking for help with  career counseling.
+
+<div align=center>  📫 How to reach me: hyunji5031@gmail.com
+
+<div align=center>  ❤️ I love  @kimjaeyoonn__ !
+
+<div align=center>  ⚡ Fun fact: tough time deciding on his career.
+
 
 
 <div align=center><h1>📚 STACKS 📚</h1></div>
