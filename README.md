@@ -1,61 +1,53 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=HyunJi'sGithub)
-### <div align=center> Hi there 👋
+<br/> <br/> <br/> <br/> <br/> 
+  
+Hello i am **Hyun Ji Lee!**<br/> 
+I’m currently learning **recommendation system**<br/> 
+I want to be **Data Scientist**<br/> 
+I’m looking to collaborate on someone who can working together to apply **AI for social good**<br/> 
+How to reach me: hyunji5031@gmail.com<br/> 
+❤️ I love  @kimjaeyoonn__ !<br/> 
+⚡ Fun fact : tough time deciding on career.<br/> 
 
 
-<div align=center> 🐰 I am Hyun Ji Lee
-
-<div align=center> 🌱 I’m currently learning recommendation system
-
-<div align=center> 🤝 I’m looking to collaborate on someone who can working together to apply  AI for social good
-
-<div align=center>  🤔 I’m looking for help with  career counseling.
-
-<div align=center>  📫 How to reach me: hyunji5031@gmail.com
-
-<div align=center>  ❤️ I love  @kimjaeyoonn__ !
-
-<div align=center>  ⚡ Fun fact: tough time deciding on career.
-
-
-
-<div align=center><h1>📚 STACKS 📚</h1></div>
-
+<div align=center><h2>📚 STACKS 📚</h2></div>
 <div align=center> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
-
+  <p>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <br/> 
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white">
+  <p>
 </div>
 
-
-<div align=center><h1>🛠 Tools 🛠</h1></div>
+<div align=center><h2>🛠 Tools 🛠</h2></div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PyCharm-47A248?style=for-the-badge&logo=PyCharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VisualStudeioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-47A248?style=flat-square&logo=PyCharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VisualStudeioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/><br/> 
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   
 </div>
 
-<div align=center><h1>💻 Portfolio 💻</h1></div>
+<div align=center><h2>💻 Portfolio 💻</h2></div>
 
 <div align="center">
-  <a href="https://brave-greenfrog.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-  <a href="https://www.notion.so/Hyun-Ji-Lee-c98257799ab644db8169676336640416"><img src="https://img.shields.io/badge/Notion-FE5196?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+  <a href="https://brave-greenfrog.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://www.notion.so/Hyun-Ji-Lee-c98257799ab644db8169676336640416"><img src="https://img.shields.io/badge/Notion-FE5196?style=flat-square&logo=Notion&logoColor=white"/></a>
   
 </div>
 
-<div align=center><h1> 📬 Contact 📬 </h1></div>
+<div align=center><h2> 📬 Contact 📬 </h2></div>
 <div align=center><a href="https://instagram.com/kkulzi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkulzi__" height="30" width="40" /></a>
-hyunji5031@gmail.com
-</p>
 
-<div align="center">
+  hyunji5031@gmail.com
+</p>
+<div align=center><h2>👍🏻 Algorithm practice skill 👍🏻</h2></div>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunji5031">
 </div>
