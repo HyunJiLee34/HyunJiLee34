@@ -14,7 +14,7 @@
 
 <div align=center>  ❤️ I love  @kimjaeyoonn__ !
 
-<div align=center>  ⚡ Fun fact: tough time deciding on his career.
+<div align=center>  ⚡ Fun fact: tough time deciding on career.
 
 
 
