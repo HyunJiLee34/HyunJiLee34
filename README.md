@@ -83,7 +83,7 @@ How to reach me: hyunji5031@gmail.com<br/>
 
 
 ### 🏫 학회 활동 
-[D&A] (https://github.com/hits-gold/2022DnA_Session) <- About D&A
+[D&A] (https://cms.kookmin.ac.kr/kmu-dna/etc/intoduce.do) <- About D&A
 
 |연도|Session|활동 내용|링크|
 |-|-|-|-|
