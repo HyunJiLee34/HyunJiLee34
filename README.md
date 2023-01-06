@@ -6,7 +6,6 @@ I’m currently learning **recommendation system**<br/>
 I want to be **Data Scientist**<br/> 
 I’m looking to collaborate on someone who can working together to apply **AI for social good**<br/> 
 How to reach me: hyunji5031@gmail.com<br/> 
-* ❤️ I love  @kimjaeyoonn__ !<br/> 
 ⚡ Fun fact : tough time deciding on career.<br/> 
 
 
