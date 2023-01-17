@@ -2,6 +2,7 @@
 <br/> <br/>
   
 Hello i am **Hyun Ji Lee!**<br/> 
+I'm currently working at TBWA Korea as a Data Analyst
 I’m currently learning **recommendation system**<br/> 
 I want to be **Data Scientist**<br/> 
 I’m looking to collaborate on someone who can working together to apply **AI for social good**<br/> 
