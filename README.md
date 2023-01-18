@@ -4,7 +4,6 @@
 Hello i am **Hyun Ji Lee!**<br/> 
 I'm currently working at **TBWA Korea** as a **Data Analyst**<br/>
 I’m currently learning **recommendation system**<br/> 
-I’m looking to collaborate on someone who can working together to apply **AI for social good**<br/> 
 How to reach me: hyunji5031@gmail.com<br/> 
 ⚡ Fun fact : tough time deciding on career.<br/> 
 
