@@ -91,7 +91,7 @@ How to reach me: hyunji5031@gmail.com<br/>
 |연도|Session|링크|
 |-|-|-|
 |2022.08~11|Deeplearning Session|https://github.com/HyunJiLee34/DL_session|
-|2022.10~|Conference|진행중|
+|2022.10~|Conference|https://github.com/HyunJiLee34/Bitamin-Conference|
 
 
 
