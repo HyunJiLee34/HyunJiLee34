@@ -71,7 +71,7 @@ How to reach me: hyunji5031@gmail.com<br/>
 ### 💻 프로젝트
 |연도|keyword|프로젝트|링크|
 |-|-|-|-|
-|2023|추천시스템 & 자연어 처리 & 웹 개발 | 추천시스템과 자연어 처리를 활용한 의류 쇼핑몰
+|2023|추천시스템 & 자연어 처리 & 웹 개발 | 추천시스템과 자연어 처리를 활용한 의류 쇼핑몰 | https://github.com/HyunJiLee34/Bitamin-Conference
 |2022|데이터 분석 & 요인분석|교통량 예측과 요인분석|<a href="https://github.com/hits-gold/projects/tree/main/%E1%84%80%E1%85%AD%E1%84%90%E1%85%A9%E1%86%BC%E1%84%85%E1%85%A3%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%E1%84%80%E1%85%AA%20%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8">링크</a>|
 |2022|ImageCaptioning & Clustering|이미지 캡셔닝을 통한 사진 클러스터링|<a href="https://github.com/HyunJiLee34/Project/tree/main/ImageCaptioning-Clustering">링크</a>|
 |2022|Crawling & LDA|Google Playstore ‘Toss’(Fintech application) reviews crawling , LDA Topic Modeling|<a href="https://github.com/HyunJiLee34/Project/tree/main/GooglePlayStore-ReviewCrawling-LDA">링크</a>|
