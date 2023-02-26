@@ -3,9 +3,8 @@
   
 Hello i am **Hyun Ji Lee!**<br/> 
 I'm doing an internship at **TBWA Korea** as a **Data Analyst**<br/>
-I’m currently learning **recommendation system**<br/> 
+I’m currently learning **Business Analytics** , **Growth Hacking**, **Tableau**<br/> 
 How to reach me: hyunji5031@gmail.com<br/> 
-⚡ Fun fact : tough time deciding on career.<br/> 
 
 
 <div align=center><h2>📚 STACKS 📚</h2></div>
