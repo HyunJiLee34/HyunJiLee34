@@ -57,19 +57,18 @@ How to reach me: hyunji5031@gmail.com<br/>
 ### 🏆 대회
 |연도|대회명|프로젝트|수상|링크|
 |-|-|-|-|-|
-|2022|2022 빅콘테스트 퓨처스리그 데이터분석||||
-|2022|Dacon 제주도 도로 교통량 예측 AI 경진대회|교통량 예측 알고리즘 개발|상위 3%|<a href="https://github.com/HyunJiLee34/DACON_Jeju-Traffic-Forecast" target="_blank">링크</a>|
+|2022|Dacon 제주도 도로 교통량 예측 AI 경진대회|교통량 예측 알고리즘 개발||<a href="https://github.com/HyunJiLee34/DACON_Jeju-Traffic-Forecast" target="_blank">링크</a>|
 |2022|Dacon 카드 소비 패턴 분석 시각화 경진대회|카드 소비 데이터를 이용하여 지식을 발견하고 소비 트렌드 및 소비 패턴을 효과적으로 분석 시각화|2위|<a href="https://github.com/HyunJiLee34/DACON_Card-Consumption-Data-Analysis" target="_blank">링크</a>|
 |2021|Kaggle KML Challenge 2021F|설문조사 응답 여부 예측|1위|<a href="https://github.com/HyunJiLee34/School_Competition/tree/main/Kaggle%20KML%20Challenge%202021F" target="_blank">링크</a>|
 |2021|Dacon 연간 데이콘 인공지능 비트 트레이더 경진대회 시즌 3 |10가지 종류의 암호화폐 가격을 예측하여 가장 높은 수익율을 갖는 모델 개발|1위|<a href="https://github.com/HyunJiLee34/DACON_bitcoin" target="_blank">링크</a>|
 |2021|Kaggle D&A ML Challenge 2021F|구매내역과 클릭스트림 데이터를 이용한 고객의 성별, 연령대 예측|2위|<a href="https://github.com/HyunJiLee34/School_Competition/tree/main/2021F_D%26A%20ML%20Challange" target="_blank">링크</a>|
-|2021|Dacon 주식 종료 가격 예측 경진대회|KOSPI-200과 KOSDAQ-150의 주어진 기간 중 마지막으로 거래된 가격(종가) 예측|Top 14%|<a href="https://github.com/HyunJiLee34/DACON_Stock-Price-Prediction" target="_blank">링크</a>|
+|2021|Dacon 주식 종료 가격 예측 경진대회|KOSPI-200과 KOSDAQ-150의 주어진 기간 중 마지막으로 거래된 가격(종가) 예측||<a href="https://github.com/HyunJiLee34/DACON_Stock-Price-Prediction" target="_blank">링크</a>|
  
 
 ### 💻 프로젝트
 |연도|keyword|프로젝트|링크|
 |-|-|-|-|
-|2023|데이터분석 & 마케팅전략개발| 멤버십 리텐션 인게이지먼트 컨설팅 |<a href= "">링크</a>|
+|2023|데이터분석 & 마케팅전략개발| 멤버십 리텐션 인게이지먼트 컨설팅 |<a href= "https://github.com/HyunJiLee34/Project/tree/main/%EB%B8%8C%EB%9E%9C%EB%93%9C%20%EB%A6%AC%ED%85%90%EC%85%98%20%EC%9D%B8%EA%B2%8C%EC%9D%B4%EC%A7%80%EB%A8%BC%ED%8A%B8">링크</a>|
 |2023|추천시스템 & 자연어 처리 & 웹 개발 | 추천시스템과 자연어 처리를 활용한 의류 쇼핑몰 |<a href= "https://github.com/HyunJiLee34/Bitamin-Conference">링크</a>|
 |2022|데이터 분석 & 요인분석|교통량 예측과 요인분석|<a href="https://github.com/hits-gold/projects/tree/main/%E1%84%80%E1%85%AD%E1%84%90%E1%85%A9%E1%86%BC%E1%84%85%E1%85%A3%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%E1%84%80%E1%85%AA%20%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8">링크</a>|
 |2022|ImageCaptioning & Clustering|이미지 캡셔닝을 통한 사진 클러스터링|<a href="https://github.com/HyunJiLee34/Project/tree/main/ImageCaptioning-Clustering">링크</a>|
