@@ -3,7 +3,7 @@
   
 Hello i am **Hyun Ji Lee!**<br/> 
 I’m currently learning **Business Analytics** , **Growth Hacking**, **Tableau**<br/> 
-Recently worked as a **Data Analyst** at TBWA
+Recently worked as a **Data Analyst** at TBWA<br/> 
 How to reach me: hyunji5031@gmail.com<br/> 
 
 
