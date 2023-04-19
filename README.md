@@ -2,7 +2,6 @@
 <br/> <br/>
   
 Hello i am **Hyun Ji Lee!**<br/> 
-I'm doing an internship at **TBWA Korea** as a **Data Analyst**<br/>
 I’m currently learning **Business Analytics** , **Growth Hacking**, **Tableau**<br/> 
 How to reach me: hyunji5031@gmail.com<br/> 
 
