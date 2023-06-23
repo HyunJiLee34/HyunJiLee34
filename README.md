@@ -70,6 +70,7 @@ How to reach me: hyunji5031@gmail.com<br/>
 |연도|keyword|프로젝트|링크|
 |-|-|-|-|
 |2023|데이터분석 & 마케팅전략개발| 멤버십 리텐션 인게이지먼트 컨설팅 |<a href= "https://github.com/HyunJiLee34/Project/tree/main/%EB%B8%8C%EB%9E%9C%EB%93%9C%20%EB%A6%AC%ED%85%90%EC%85%98%20%EC%9D%B8%EA%B2%8C%EC%9D%B4%EC%A7%80%EB%A8%BC%ED%8A%B8">링크</a>|
+|2023|광진구 데이터분석 공모전| 쓰레기 위험지수 개발을 통한 광진구 맞춤 쓰레기 수거 방안 제시 ||
 |2023|추천시스템 & 자연어 처리 & 웹 개발 | 추천시스템과 자연어 처리를 활용한 의류 쇼핑몰 |<a href= "https://github.com/HyunJiLee34/Bitamin-Conference">링크</a>|
 |2022|데이터 분석 & 요인분석|교통량 예측과 요인분석|<a href="https://github.com/hits-gold/projects/tree/main/%E1%84%80%E1%85%AD%E1%84%90%E1%85%A9%E1%86%BC%E1%84%85%E1%85%A3%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%E1%84%80%E1%85%AA%20%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8">링크</a>|
 |2022|ImageCaptioning & Clustering|이미지 캡셔닝을 통한 사진 클러스터링|<a href="https://github.com/HyunJiLee34/Project/tree/main/ImageCaptioning-Clustering">링크</a>|
