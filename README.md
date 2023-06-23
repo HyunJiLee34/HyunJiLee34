@@ -81,7 +81,7 @@ How to reach me: hyunji5031@gmail.com<br/>
 
 
 
-### 🏫 학회 활동 
+### 🏫 학회 및 동아리 활동 
 [D&A] (https://cms.kookmin.ac.kr/kmu-dna/etc/intoduce.do) <- About D&A
 
 |연도|Session|활동 내용|링크|
