@@ -82,13 +82,13 @@ How to reach me: hyunji5031@gmail.com<br/>
 
 
 ### 🏫 학회 및 동아리 활동 
-[D&A] (https://cms.kookmin.ac.kr/kmu-dna/etc/intoduce.do) <- About D&A
+[BOAZ]
 
+[D&A] 
 |연도|Session|활동 내용|링크|
 |-|-|-|-|
 
-[BITAmin] (https://github.com/BitaminOfficial) <- About BITAmin
-
+[BITAmin] 
 |연도|Session|링크|
 |-|-|-|
 |2022.08~11|Deeplearning Session|https://github.com/HyunJiLee34/DL_session|
