@@ -35,7 +35,7 @@ How to reach me: hyunji5031@gmail.com<br/>
 
 <div align="center">
   <a href="https://brave-greenfrog.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="https://www.notion.so/e43ef79a848243b7aae48ac420b3b86b"><img src="https://img.shields.io/badge/Notion-FE5196?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://amazing-ease-57f.notion.site/e43ef79a848243b7aae48ac420b3b86b?pvs=4"><img src="https://img.shields.io/badge/Notion-FE5196?style=flat-square&logo=Notion&logoColor=white"/></a>
  
 </div>
 
