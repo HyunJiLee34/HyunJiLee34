@@ -58,6 +58,7 @@ How to reach me: hyunji5031@gmail.com<br/>
 ### 🏆 대회
 |연도|대회명|프로젝트|수상|링크|
 |-|-|-|-|-|
+|2023|제2회 신한금융그룹 빅데이터 해커톤|신한라이프 신사업 개발|우수상|-|
 |2022|Dacon 제주도 도로 교통량 예측 AI 경진대회|교통량 예측 알고리즘 개발||<a href="https://github.com/HyunJiLee34/DACON_Jeju-Traffic-Forecast" target="_blank">링크</a>|
 |2022|Dacon 카드 소비 패턴 분석 시각화 경진대회|카드 소비 데이터를 이용하여 지식을 발견하고 소비 트렌드 및 소비 패턴을 효과적으로 분석 시각화|2위|<a href="https://github.com/HyunJiLee34/DACON_Card-Consumption-Data-Analysis" target="_blank">링크</a>|
 |2021|Kaggle KML Challenge 2021F|설문조사 응답 여부 예측|1위|<a href="https://github.com/HyunJiLee34/School_Competition/tree/main/Kaggle%20KML%20Challenge%202021F" target="_blank">링크</a>|
