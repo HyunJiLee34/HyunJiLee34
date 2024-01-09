@@ -2,8 +2,7 @@
 <br/> <br/>
   
 Hello i am **Hyun Ji Lee!**<br/> 
-I’m currently learning **Google BigQuery**, **Tableau**<br/> 
-Recently worked as a **Data Analyst** at TBWA<br/> 
+i am working as a **Data Scientist** at SHINSEGAE <br/> 
 How to reach me: hyunji5031@gmail.com<br/> 
 
 
