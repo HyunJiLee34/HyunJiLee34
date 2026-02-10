@@ -1,8 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=HyunJi'sGithub)
-<br/> <br/>
-  
-Hello i am **Hyun Ji Lee!**<br/> 
-i am working as a **Data Scientist** at SHINSEGAE <br/> 
+
 How to reach me: hyunji5031@gmail.com<br/> 
 
 
