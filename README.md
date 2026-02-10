@@ -2,7 +2,7 @@
 How to reach me: hyunji5031@gmail.com<br/> 
 
 
-<div align=center><h2>📚 STACKS 📚</h2></div>
+<div align=center><h2> STACKS </h2></div>
 <div align=center> 
   <p>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -15,7 +15,7 @@ How to reach me: hyunji5031@gmail.com<br/>
   <p>
 </div>
 
-<div align=center><h2>🛠 Tools 🛠</h2></div>
+<div align=center><h2> Tools </h2></div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/PyCharm-47A248?style=flat-square&logo=PyCharm&logoColor=white"/>
@@ -26,18 +26,12 @@ How to reach me: hyunji5031@gmail.com<br/>
   
 </div>
 
-<div align=center><h2>💻 Portfolio 💻</h2></div>
+<div align=center><h2> Portfolio </h2></div>
 
 <div align="center">
   <a href="https://brave-greenfrog.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <a href="https://amazing-ease-57f.notion.site/e43ef79a848243b7aae48ac420b3b86b?pvs=4"><img src="https://img.shields.io/badge/Notion-FE5196?style=flat-square&logo=Notion&logoColor=white"/></a>
  
-</div>
-
-<div align=center><h2> 📬 Contact 📬 </h2></div>
-<div align=center><a href="https://instagram.com/kkulzi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkulzi__" height="30" width="40" /></a>
-
-  hyunji5031@gmail.com
 </p>
 <div align=center><h2>👍🏻 Algorithm practice skill 👍🏻</h2></div>
 
